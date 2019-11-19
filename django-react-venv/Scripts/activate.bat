@@ -8,7 +8,8 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\github\mamma1234\django-react\django-react-venv
+rem set VIRTUAL_ENV=C:\github\mamma1234\django-react\django-react-venv
+set VIRTUAL_ENV=C:\egovframeworkSample\eclipse-javascript-2019-09-R-win32-x86_64\workspace\klnet.owner\example\django-react\django-react-venv
 
 if not defined PROMPT set PROMPT=$P$G
 

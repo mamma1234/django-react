@@ -37,7 +37,9 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\github\mamma1234\django-react\django-react-venv"
+# VIRTUAL_ENV="C:\github\mamma1234\django-react\django-react-venv"
+VIRTUAL_ENV="C:\egovframeworkSample\eclipse-javascript-2019-09-R-win32-x86_64\workspace\klnet.owner\example\django-react\django-react-venv"
+
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

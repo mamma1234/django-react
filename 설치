@@ -1,0 +1,11 @@
+git clone https://github.com/mamma1234/django-react.git
+
+환경 변수(시스템 변수 Path) 추가 
+C:\Program Files (x86)\Yarn\bin\;C:\Users\Administrator\AppData\Local\Programs\Python\Python38;C:\Users\Administrator\AppData\Local\Programs\Python\Python38\Scripts
+
+C:\egovframeworkSample\eclipse-javascript-2019-09-R-win32-x86_64\workspace\klnet.owner\example\django-react\django-react-venv\pyvenv.cfg
+
+C:\egovframeworkSample\eclipse-javascript-2019-09-R-win32-x86_64\workspace\klnet.owner\example\django-react\django-react-venv\Scripts\activate
+
+C:\egovframeworkSample\eclipse-javascript-2019-09-R-win32-x86_64\workspace\klnet.owner\example\django-react\django-react-venv\Scripts\activate.bat
+
